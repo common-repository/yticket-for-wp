@@ -1,0 +1,37 @@
+<?php
+if(!defined('TITLE')) define('TITLE', 'yTicket Help Desk Software');
+if(!defined('DESCRIPTION')) define('DESCRIPTION', 'Qui puoi configurare ...');
+if(!defined('ACCESS_ERROR')) define('ACCESS_ERROR', 'Non hai i permessi necessari per accedere a questa pagina.');
+if(!defined('CUSTOMERCODE')) define('CUSTOMERCODE', 'Customer Code');
+if(!defined('SUBJECT')) define('SUBJECT', 'Subject');
+if(!defined('TEXT')) define('TEXT', 'Description');
+if(!defined('YOURNAME')) define('YOURNAME', 'Your Name and Surname');
+if(!defined('DEPARTMENT')) define('DEPARTMENT', 'Department');
+if(!defined('SETTINGS')) define('SETTINGS', 'Settings');
+if(!defined('SEND')) define('SEND', 'Send');
+if(!defined('RESET')) define('RESET', 'Reset');
+if(!defined('CSS')) define('CSS', 'Use the CSS of yTicket');
+if(!defined('VALIDATOR')) define('VALIDATOR', 'Use the Validator');
+if(!defined('EC200')) define('EC200', 'Request Ok');
+if(!defined('EC204')) define('EC204', 'Empty Content');
+if(!defined('EC400')) define('EC400', 'Parametric Error');
+if(!defined('EC401')) define('EC401', 'Authentication failed');
+if(!defined('EC405')) define('EC405', 'Requests method not supported by that resource');
+if(!defined('EC500')) define('EC500', 'Internal server error');
+if(!defined('EC501')) define('EC501', 'Services not implemented');
+if(!defined('EC001')) define('EC001', 'Undefined error');
+if(!defined('TTOPENED')) define('TTOPENED', 'Ticket opened. Check your inbox %EMAIL%, we have sent you a confirmation of taking charge of your request. In the subject will find the following code %TICKETID%');
+if(!defined('TTCUSTOMER')) define('TTCUSTOMER', 'Customer');
+if(!defined('TTEMAILOT')) define('TTEMAILOT', 'Email with which you opened the ticket');
+if(!defined('TTSUBJECT')) define('TTSUBJECT', 'Subject');
+if(!defined('TTDESCRIPTION')) define('TTDESCRIPTION', 'Job history');
+if(!defined('TTOPENDATE')) define('TTOPENDATE', 'Opening date');
+if(!defined('TTSTATUS')) define('TTSTATUS', 'Ticket status');
+if(!defined('TTSTATUSJOB')) define('TTSTATUSJOB', 'Level processing ticket');
+if(!defined('TTDEPARTMENT')) define('TTDEPARTMENT', 'Department');
+if(!defined('TTMESSAGE')) define('TTMESSAGE', 'Message');
+if(!defined('ADMINCSS')) define('ADMINCSS', 'Use the CSS yTicket');
+if(!defined('ADMINJS')) define('ADMINJS', 'Use Validator');
+if(!defined('INSERTURL')) define('INSERTURL', 'Enter the url of your yTicket');
+if(!defined('ESEMPIO')) define('ESEMPIO', 'Ex.');
+?>

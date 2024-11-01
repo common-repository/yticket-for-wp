@@ -1,0 +1,37 @@
+<?php
+if(!defined('TITLE')) define('TITLE', 'yTicket Help Desk Software');
+if(!defined('DESCRIPTION')) define('DESCRIPTION', 'Qui puoi configurare ...');
+if(!defined('ACCESS_ERROR')) define('ACCESS_ERROR', 'Non hai i permessi necessari per accedere a questa pagina.');
+if(!defined('CUSTOMERCODE')) define('CUSTOMERCODE', 'Codice cliente');
+if(!defined('SUBJECT')) define('SUBJECT', 'Oggetto');
+if(!defined('TEXT')) define('TEXT', 'Descrizione');
+if(!defined('YOURNAME')) define('YOURNAME', 'Nome e Cognome');
+if(!defined('DEPARTMENT')) define('DEPARTMENT', 'Dipartimento');
+if(!defined('SETTINGS')) define('SETTINGS', 'Pagina delle impostazioni');
+if(!defined('SEND')) define('SEND', 'Invia');
+if(!defined('RESET')) define('RESET', 'Svuota');
+if(!defined('CSS')) define('CSS', 'Utilizza i CSS di yTicket');
+if(!defined('VALIDATOR')) define('VALIDATOR', 'Utilizza Validator');
+if(!defined('EC200')) define('EC200', 'Operazione conclusa con successo');
+if(!defined('EC204')) define('EC204', 'Non ci sono risultati per la richiesta effettuata');
+if(!defined('EC400')) define('EC400', 'Compila tutti i campi richiesti e riprova');
+if(!defined('EC401')) define('EC401', 'I parametri di autenticazione no sono validi');
+if(!defined('EC405')) define('EC405', 'Il servizio richiesto non è valido');
+if(!defined('EC500')) define('EC500', 'Si è verificato un errore interno');
+if(!defined('EC501')) define('EC501', 'Errore di sistema');
+if(!defined('EC001')) define('EC001', 'Errore sconosciuto');
+if(!defined('TTOPENED')) define('TTOPENED', 'Ticket aperto. Controlla la tua casella di posta %EMAIL%, ti abbiamo inviato una conferma di avvenuta presa in carico della tua richiesta. Nell\'oggetto dell\'email troverai il seguente codice %TICKETID%');
+if(!defined('TTCUSTOMER')) define('TTCUSTOMER', 'Cliente');
+if(!defined('TTEMAILOT')) define('TTEMAILOT', 'Email di apertura ticket');
+if(!defined('TTSUBJECT')) define('TTSUBJECT', 'Oggetto ticket');
+if(!defined('TTDESCRIPTION')) define('TTDESCRIPTION', 'Storico lavorazione');
+if(!defined('TTOPENDATE')) define('TTOPENDATE', 'Data di apertura');
+if(!defined('TTSTATUS')) define('TTSTATUS', 'Stato ticket');
+if(!defined('TTSTATUSJOB')) define('TTSTATUSJOB', 'Stato lavorazione ticket');
+if(!defined('TTDEPARTMENT')) define('TTDEPARTMENT', 'Dipartimento');
+if(!defined('TTMESSAGE')) define('TTMESSAGE', 'Messaggio');
+if(!defined('ADMINCSS')) define('ADMINCSS', 'Utilizza i CSS di yTicket');
+if(!defined('ADMINJS')) define('ADMINJS', 'Utilizza Validator');
+if(!defined('INSERTURL')) define('INSERTURL', 'Inserisci la url del tuo yTicket');
+if(!defined('ESEMPIO')) define('ESEMPIO', 'Es.');
+?>
